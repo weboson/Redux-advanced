@@ -1,5 +1,12 @@
-## текущий момент в скриншоте:
+## Прогресс:
+Видео: 
+"Redux + Redux Toolkit | Продвинутый полный курс | Часть 1": https://www.youtube.com/watch?v=YROz0WYExww&t=930s&ab_channel=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%D0%9F%D0%B0%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%7CFront-end
+1) 00:18:01 - Пример на чистом Redux
+Ветка: An_example_on_pure_Redux 
 ![Alt text](image.png)
+2) 00:34:38 - Reducer, Иммутабельность 
+Ветка: Immunability
+![Alt text](image-1.png)
 
 
 # Redux + Redux Toolkit | Продвинутый полный курс
