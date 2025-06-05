@@ -7,6 +7,8 @@
 2) 00:34:38 - Reducer, Иммутабельность 
 Ветка: Immunability
 ![Alt text](image-1.png)
+3) 00:51:48 - Как реализована подписка на Redux
+![Alt text](image-2.png)
 
 
 # Redux + Redux Toolkit | Продвинутый полный курс
